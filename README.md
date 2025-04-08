@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @svs730
-- 👀 I’m interested in learning codes
-- 🌱 I’m currently learning basics of programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey there! 👋 I'm SV
 
-<!---
-svs730/svs730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Web Developer** and tech enthusiast diving deep into the world of front-end design and interactive UI/UX experiences. I'm currently working on building beautiful and functional websites using **HTML, CSS, JavaScript**, and experimenting with modern effects like **Dark Mode toggles**, **Scroll animations (AOS)**, and **Responsive Design**.
+
+---
+
+🔧 **What I’ve Built So Far**
+- A clean and minimal **Portfolio Website**
+- Dark/Light Mode Theme Switcher
+- Scroll-to-top interaction button
+- Animated page sections using **AOS.js**
+- Fully hosted on **GitHub Pages**
+
+---
+
+🛠️ **Tech Stack**
+- HTML5, CSS3, JavaScript
+- Git & GitHub
+- Visual Studio Code
+- AOS.js for scroll animations
+- Responsive Web Design
+- GitHub Pages for deployment
+
+---
+
+🚀 **Currently Exploring**
+- JavaScript Projects (to-do list, weather app, etc.)
+- React Basics
+- Firebase Hosting
+- Python & Automation
+- Open-source contributions
+
+---
+
+📫 **Let's Connect!**
+Feel free to check out my projects or reach out:
+- GitHub: [svs730](https://github.com/svs730)
+- LinkedIn: *Your LinkedIn link here*
+- Portfolio: [Your Portfolio URL]
+
+---
+
+Thanks for visiting! 💻✨
