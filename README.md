@@ -35,8 +35,8 @@ I'm a passionate **Web Developer** and tech enthusiast diving deep into the worl
 📫 **Let's Connect!**
 Feel free to check out my projects or reach out:
 - GitHub: [svs730](https://github.com/svs730)
-- LinkedIn: *Your LinkedIn link here*
-- Portfolio: [Your Portfolio URL]
+- LinkedIn: www.linkedin.com/in/sunil-vishwakarma-220938ab
+- Portfolio: (https://svs730.github.io/Porfolio/)
 
 ---
 
